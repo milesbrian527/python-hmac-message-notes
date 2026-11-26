@@ -1,0 +1,14 @@
+[
+  {
+    "key": "demo-key",
+    "message": "hello"
+  },
+  {
+    "key": "demo-key",
+    "message": "hello!"
+  },
+  {
+    "key": "other-demo",
+    "message": "hello"
+  }
+]
